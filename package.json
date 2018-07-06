@@ -1,9 +1,0 @@
-{
-  "name": "ana"
-  "description": "test"
-  "Version": "0.0.0"
-  "main": " bot.py"
-  "scripts": {
-  "start": "python bot.py"
-  },
-}
